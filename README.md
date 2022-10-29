@@ -1,25 +1,23 @@
-# <p align="center"><i>Thiện Văn Kỳ Nguyễn (tôi ngại được chưa) </i></p>
-
-<p align="center"><i>Digital Craftsman (Developer/RPG Maker Games)</i></p>
-
----
+# <p align="center"><i> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monospace&pause=1000&center=true&vCenter=true&width=435&lines=Thi%E1%BB%87n+V%C4%83n+K%E1%BB%B3+Nguy%E1%BB%85n;(t%C3%B4i+ng%E1%BA%A1i+%C4%91%C6%B0%E1%BB%A3c+ch%C6%B0a);Digital+Craftsman+(Developer%2FRPG+Maker+Games))](https://git.io/typing-svg) </i></p>
 
 ### <p align="center">🧰 Languages and Tools </p>
 
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px;"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<p align="center">
+<img align="center" alt="VSCode" width="40px" style="padding-right:10px;"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="center" alt="C++" width="40px" style="padding-right:10px;"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="center" alt="Kotlin" width="40px" style="padding-right:10px;"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img align="center" alt="Java" width="40px" style="padding-right:10px;"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="center" alt="Git" width="40px" style="padding-right:10px;"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="center" alt="Linux" width="40px" style="padding-right:10px;"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="center" alt="HTML" width="40px" style="padding-right:10px;"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="center" alt="CSS" width="40px" style="padding-right:10px;"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="center" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="center" alt="Python" width="40px" style="padding-right:10px;"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="center" alt="GitHub" width="40px" style="padding-right:10px;"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="center" alt="Gradle" width="40px" style="padding-right:10px;"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+<img align="center" alt="Bash" width="40px" style="padding-right:10px;"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+</p>
 
 ---
 
