@@ -21,20 +21,12 @@
 
 ---
 
-## 👋 Hi there 
 I choose violent today
 
-
-## 👤 Who am I?
-There goes the question
-
-
-
 ## ℹ️ Information
-### Basic information:
-* **👤Full name:** Thien Van Ky Nguyen
-* **🚩Nationality:** Vietnamese
-* **🏠 Address:** Somewhere in America
+
+- I live Somewhere in America, doing software and do reality check 1 or 2 times a day.
+
 
 ### Programming information:
 **Stacks**
@@ -45,6 +37,11 @@ There goes the question
 <img alt="CSharp" src="https://img.shields.io/badge/C%23-%23823085.svg?style=flat-square&logo=csharp&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white" />
+<img alt="Kotlin" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+<img alt="Kotlin" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+
+  
 </p>
 
 **Interested in**
