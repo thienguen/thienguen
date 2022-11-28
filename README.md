@@ -73,7 +73,7 @@ I choose violent today
 
 ### Favorite Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thienguen&repo=Anime-Girls-Holding-Programming-Books&theme=dark)](https://github.com/Thienguen/Anime-Girls-Holding-Programming-Books) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NozakiYuu&repo=EasyRPGPlayer-Vietnamese&theme=dark)](https://github.com/NozakiYuu/EasyRPGPlayer-Vietnamese)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NozakiYuu&repo=EasyRPGPlayer-Vietnamese&theme=dark)](https://github.com/NozakiYuu/EasyRPGPlayer-Vietnamese)
 
 
 
