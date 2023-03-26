@@ -62,14 +62,8 @@ I choose violent today
 
 
 ## Coding experience on GitHub
-### Streaks & Stats
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thienguen&theme=dark" width="45%" /> <img src="https://github-readme-stats.vercel.app/api?username=Thienguen&show_icons=true&theme=gotham&count_private=true" alt="Thienguen" width="45%" />
-</p>
-<p style="clear: both; margin-top: 10px">
-<h3>Top Languages</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thienguen&layout=compact&theme=dark" width="48%" />
-</p>
+
+https://hacknical.com/Thienguen/visualize
 
 ### Favorite Repositories
 
