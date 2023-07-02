@@ -25,7 +25,13 @@ I choose violent today
 
 ## ℹ️ Information
 
-- I live Somewhere in America, doing software and do reality check 1 or 2 times a day.
+
+
+<div align="center" style="padding-right: 50px;">
+  <p> - I live Somewhere in America, doing software and reality checks 1 or 2 times a day - </p>
+  <img align="center" src="https://lanyard.cnrad.dev/api/481754320778428418?bg=none&showDisplayName=true"/>
+
+</div>
 
 
 ### Programming information:
@@ -40,9 +46,8 @@ I choose violent today
 <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white" />
 <img alt="Kotlin" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
 <img alt="Kotlin" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-
-  
 </p>
+
 
 **Interested in**
 <p>
@@ -50,6 +55,7 @@ I choose violent today
 <img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="CSharp" src="https://img.shields.io/badge/C%23-%23823085.svg?style=flat-square&logo=csharp&logoColor=white" />
 </p>
+
 
 **Currently learning**
 <p>
@@ -63,11 +69,10 @@ I choose violent today
 
 ## Coding experience on GitHub
 
-https://hacknical.com/Thienguen/visualize
-
 ### Favorite Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thienguen&repo=EasyRPGPlayer-Vietnamese&theme=dark)](https://github.com/Thienguen/EasyRPGPlayer-Vietnamese)
+
 
 
 
