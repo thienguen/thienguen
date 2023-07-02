@@ -38,29 +38,24 @@ I choose violent today
 **Stacks**
 <p>
 <img alt="C++" src="https://img.shields.io/badge/C++-%23004481.svg?style=flat-square&logo=cplusplus&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/Java-%23ED1D25.svg?style=flat-square&logo=java&logoColor=white" />
+<img alt="ts" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="CSharp" src="https://img.shields.io/badge/C%23-%23823085.svg?style=flat-square&logo=csharp&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="CSharp" src="https://img.shields.io/badge/C%23-%23823085.svg?style=flat-square&logo=csharp&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/Java-%23ED1D25.svg?style=flat-square&logo=java&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white" />
-<img alt="Kotlin" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
-<img alt="Kotlin" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+<img alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+<img alt="python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  
 </p>
 
 
-**Interested in**
-<p>
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
-<img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="CSharp" src="https://img.shields.io/badge/C%23-%23823085.svg?style=flat-square&logo=csharp&logoColor=white" />
-</p>
-
-
-**Currently learning**
+**Learning These Things**
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
 <img alt="C++" src="https://img.shields.io/badge/C++-%23004481.svg?style=flat-square&logo=cplusplus&logoColor=white" />
+<img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
 <img alt="Golang" src="https://img.shields.io/badge/Golang-%2329BEB0.svg?style=flat-square&logo=go&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/Java-%23ED1D25.svg?style=flat-square&logo=java&logoColor=white" />
@@ -71,7 +66,7 @@ I choose violent today
 
 ### Favorite Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thienguen&repo=EasyRPGPlayer-Vietnamese&theme=dark)](https://github.com/Thienguen/EasyRPGPlayer-Vietnamese)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thienguen&repo=EasyRPGPlayer-Vietnamese&theme=dark)](https://github.com/Thienguen/EasyRPGPlayer-Vietnamese) -->
 
 
 
