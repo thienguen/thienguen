@@ -61,8 +61,9 @@ I choose violent today
 <img alt="Java" src="https://img.shields.io/badge/Java-%23ED1D25.svg?style=flat-square&logo=java&logoColor=white" />
 </p>
 
-
-## Coding experience on GitHub
+<div align="center">
+  <h2 style="font-size: 2em;">Coding experience on GitHub</h2>
+</div>
 
 ### Favorite Repositories
 
