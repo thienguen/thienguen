@@ -67,7 +67,7 @@ I choose violent today
 
 ### Favorite Repositories
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thienguen&repo=EasyRPGPlayer-Vietnamese&theme=dark)](https://github.com/Thienguen/EasyRPGPlayer-Vietnamese) -->
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thienguen&repo=EasyRPGPlayer-Vietnamese&theme=dark)](https://github.com/Thienguen/EasyRPGPlayer-Vietnamese) 
 
 
 
