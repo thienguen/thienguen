@@ -63,7 +63,7 @@ I choose violent today
   <h2 style="font-size: 2em;">Coding experience on GitHub</h2>
 </div>
 
-### Favorite Repositories
+<!-- ### Favorite Repositories -->
 
 <div align="center">
 
