@@ -25,8 +25,6 @@ I choose violent today
 
 ## ℹ️ Information
 
-
-
 <div align="center" style="padding-right: 50px;">
   <p> - I live Somewhere in America, doing software and reality checks 1 or 2 times a day - </p>
   <img align="center" src="https://lanyard.cnrad.dev/api/481754320778428418?bg=none&showDisplayName=true"/>
@@ -66,6 +64,10 @@ I choose violent today
 </div>
 
 ### Favorite Repositories
+
+
+
+<p align="center"><a href="https://github.com/Thienguen/"><img src="http://randojs.com/images/barsSmallTransparentBackground.gif" alt="Animated footer bars" width="100%"/></a></p>
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thienguen&repo=EasyRPGPlayer-Vietnamese&theme=dark)](https://github.com/Thienguen/EasyRPGPlayer-Vietnamese) 
 
