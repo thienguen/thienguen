@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,git,vscode,tailwind,java,c,cpp,bash,python,linux" />
+    <img src="https://skillicons.dev/icons?i=js,ts,git,vscode,tailwind,java,c,cpp,bash,python,react" />
   </a>
 </p>
 
@@ -73,7 +73,7 @@ I choose violence today
 
 **Soon?™️**
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,nuxtjs,kotlin,dart,flutter,remix)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,nuxtjs,kotlin,dart,flutter,remix,svelte)](https://skillicons.dev)
 
 <div align="center">
   <h2 style="font-size: 2em;">Coding experience on GitHub</h2>
