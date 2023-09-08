@@ -31,7 +31,7 @@ I choose violence today
 
 ![GitHub profile views](https://komarev.com/ghpvc/?username=Thienguen&color=009999&style=for-the-badge) <!-- *(since 20th August 2023)* -->
 
-## ℹ️ Information
+## ℹ️ Information <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h2>
 
 <!--   <img align="center" src="https://lanyard.cnrad.dev/api/481754320778428418?bg=none&showDisplayName=true"/> -->
 <div align="center" style="padding-right: 50px;">
