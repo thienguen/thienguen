@@ -44,6 +44,7 @@ I choose violence today
 </div>
 
 
+<!--
 ### Programming information
 
 **Stacks**
@@ -74,9 +75,15 @@ I choose violence today
   <img alt = "Java" src       = "https://img.shields.io/badge/Java-%23ED1D25.svg?style=flat-square&logo=java&logoColor=white" />
 </p>
 
+-->
+
 **Soon?™️**
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,nuxtjs,kotlin,dart,flutter,remix,svelte)](https://skillicons.dev)
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=mongodb,nuxtjs,kotlin,dart,flutter,remix,svelte)](https://skillicons.dev)
+  
+</div>
 
 <div align="center">
   <h2 style="font-size: 2em;">Coding experience on GitHub</h2>
@@ -84,14 +91,11 @@ I choose violence today
 
 <!-- ### Favorite Repositories -->
 
+<!-- 
 <div align="center">
-
-<!--  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thienguen&repo=EasyRPGPlayer-Vietnamese&theme=dark)](https://github.com/Thienguen/EasyRPGPlayer-Vietnamese) -->
-
-
-
-
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thienguen&repo=EasyRPGPlayer-Vietnamese&theme=dark)](https://github.com/Thienguen/EasyRPGPlayer-Vietnamese) 
 </div>
+-->
   
 <p align="center"><a href="https://github.com/Thienguen/"><img src="http://randojs.com/images/barsSmallTransparentBackground.gif" alt="Animated footer bars" width="100%"/></a></p>
 
