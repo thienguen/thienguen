@@ -37,9 +37,9 @@ I choose violence today
 <div align="center" style="padding-right: 50px;">
   <p> - I live Somewhere in America, doing software and reality checks 1 or 2 times a day - </p>
   
-  <!-- [![Discord Presence](https://lanyard.cnrad.dev/api/481754320778428418?theme=dark&bg=#0C1222&borderRadius=10px&idleMessage=Probably%20reading20something%20holy...)](https://discord.com/users/481754320778428418) -->
-
-  [![Discord Presence](https://lanyard.kyrie25.me/api/481754320778428418)](https://discord.com/users/481754320778428418)
+[![Discord Presence](https://lanyard.cnrad.dev/api/481754320778428418?theme=dark&bg=#0C1222&borderRadius=10px&idleMessage=Probably%20reading20something%20holy...)](https://discord.com/users/481754320778428418) 
+  
+<!--[![Discord Presence](https://lanyard.kyrie25.me/api/481754320778428418)](https://discord.com/users/481754320778428418) -->
 
 </div>
 
