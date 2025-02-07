@@ -35,7 +35,7 @@ I choose violence today
 
 <!--   <img align="center" src="https://lanyard.cnrad.dev/api/481754320778428418?bg=none&showDisplayName=true"/> -->
 <div align="center" style="padding-right: 50px;">
-  <p> - I live Somewhere in America, doing software and reality checks 1 or 2 times a day - </p>
+  <p> - I live Somewhere in the states, doing software and reality checks 1 or 2 times a day - </p>
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/481754320778428418?theme=dark&bg=#0C1222&borderRadius=10px&idleMessage=Probably%20reading20something%20holy...)](https://discord.com/users/481754320778428418) 
   
@@ -86,7 +86,8 @@ I choose violence today
 </div>
 
 <div align="center">
-  <h2 style="font-size: 2em;">Coding experience on GitHub</h2>
+  <h2 style="font-size: 2em;">Coding experience on GitHub -- 🀄 UNLV @CS</h2>
+  <h2 style="font-size: 2em;">GitLab holds some of my creations 🤷‍♂️</h2>
 </div>
 
 <!-- ### Favorite Repositories -->
