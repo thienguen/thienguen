@@ -86,8 +86,8 @@ I choose violence today
 </div>
 
 <div align="center">
-  <h2 style="font-size: 2em;">Coding experience on GitHub -- 🀄 UNLV @CS</h2>
-  <h2 style="font-size: 2em;">GitLab holds some of my creations 🤷‍♂️</h2>
+  <h2 style="font-size: 2em;">Coding experience on GitHub, Gitlab have some of my stuff -- 🀄 UNLV @CS</h2>
+<!--   <h2 style="font-size: 2em;">GitLab holds some of my creations 🤷‍♂️</h2> -->
 </div>
 
 <!-- ### Favorite Repositories -->
