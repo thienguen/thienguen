@@ -1,4 +1,4 @@
-# <p align="center"><i> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monospace&pause=1000&center=true&vCenter=true&width=435&lines=Thi%E1%BB%87n+V%C4%83n+K%E1%BB%B3+Nguy%E1%BB%85n;(t%C3%B4i+ng%E1%BA%A1i+%C4%91%C6%B0%E1%BB%A3c+ch%C6%B0a);Digital+Craftsman+(%2FRPG+Maker+Games/))](https://git.io/typing-svg) </i></p>
+# <p align="center"><i> [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Monospace&pause=1000&center=true&vCenter=true&width=435&lines=Thi%E1%BB%87n+V%C4%83n+K%E1%BB%B3+Nguy%E1%BB%85n;(t%C3%B4i+ng%E1%BA%A1i+%C4%91%C6%B0%E1%BB%A3c+ch%C6%B0a);Digital+Craftsman+(%2FRPG+Maker+Games/)>)](https://git.io/typing-svg) </i></p>
 
 ### <p align="center">🧰 Languages and Tools </p>
 
@@ -27,7 +27,7 @@
 
 ---
 
-I choose violence today 
+I choose violence today
 
 ![GitHub profile views](https://komarev.com/ghpvc/?username=Thienguen&color=009999&style=for-the-badge) <!-- *(since 20th August 2023)* -->
 
@@ -42,7 +42,6 @@ I choose violence today
 <!--[![Discord Presence](https://lanyard.kyrie25.me/api/481754320778428418)](https://discord.com/users/481754320778428418) -->
 
 </div>
-
 
 <!--
 ### Programming information
@@ -60,7 +59,7 @@ I choose violence today
   <img alt = "Git" src    = "https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt = "Kotlin" src = "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt = "js" src     = "https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt = "python" src = "https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />  
+  <img alt = "python" src = "https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
 </p>
 
 **Learning These Things**
@@ -92,14 +91,22 @@ I choose violence today
 
 <!-- ### Favorite Repositories -->
 
-<!-- 
+<!--
 <div align="center">
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thienguen&repo=EasyRPGPlayer-Vietnamese&theme=dark)](https://github.com/Thienguen/EasyRPGPlayer-Vietnamese) 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thienguen&repo=EasyRPGPlayer-Vietnamese&theme=dark)](https://github.com/Thienguen/EasyRPGPlayer-Vietnamese)
 </div>
 -->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
   
 <p align="center"><a href="https://github.com/Thienguen/"><img src="http://randojs.com/images/barsSmallTransparentBackground.gif" alt="Animated footer bars" width="100%"/></a></p>
-
-
-
-
