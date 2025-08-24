@@ -1,4 +1,4 @@
-# <p align="center"><i> [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Monospace&pause=1000&center=true&vCenter=true&width=435&lines=Thi%E1%BB%87n+V%C4%83n+K%E1%BB%B3+Nguy%E1%BB%85n;(t%C3%B4i+ng%E1%BA%A1i+%C4%91%C6%B0%E1%BB%A3c+ch%C6%B0a);Digital+Craftsman+(%2FRPG+Maker+Games/)>)](https://git.io/typing-svg) </i></p>
+# <p align="center"><i> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monospace&pause=1000&center=true&vCenter=true&width=435&lines=Nguy%E1%BB%85n+V%C4%83n+K%E1%BB%B3+Thi%E1%BB%87n;(t%C3%B4i+ng%E1%BA%A1i+%C4%91%C6%B0%E1%BB%A3c+ch%C6%B0a);Digital+Craftsman+(%2FRPG+Maker+Games/))](https://git.io/typing-svg) </i></p>
 
 ### <p align="center">🧰 Languages and Tools </p>
 
